@@ -1,0 +1,2 @@
+# hugoquickstart
+Learn Hugo
