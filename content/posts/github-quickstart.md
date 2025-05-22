@@ -1,6 +1,6 @@
 +++
 date = '2025-05-22T21:15:26+03:00'
-draft = true
+draft = false
 title = 'Github Quickstart'
 +++
 
