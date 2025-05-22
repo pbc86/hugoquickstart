@@ -1,4 +1,4 @@
-baseURL = 'https://pbc86.github.io/hugoquickstart/'
+baseURL = 'https://pbc86.github.io/'
 languageCode = 'en-us'
 title = "Cau's Hugo Site"
 theme='ananke'
